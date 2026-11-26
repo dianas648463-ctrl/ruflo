@@ -61,9 +61,11 @@ Fourth-year student of English Language Education, Akhmet Baitursynuly Regional 
 
 - Task 10 retells the leadership tests (task 8) instead of the questionnaire results. Needs her survey answers (how many people answered, what most of them chose for each question) to rewrite.
 - Placeholders not filled: "Grade: ___ · Book: ___ · Page: ___ · Task no.: ___", "Write the original textbook task here", the three chart analyses.
+- The Google Form could not be read from the cloud session (forms.gle is blocked by its network). Its questions and results must come from her.
 - No photos uploaded yet: profile, teacher, group work, quest task 1 and all screenshot slots.
 
 ## Change log
 
 - 2026-11-26, version 1: page published from her HTML. Added photo upload and text editing for the owner, keyboard access to the test buttons, menu closes with Esc or a click outside, quest dark slide made visible, "a 11th" → "an 11th", word counts corrected (essay 174, review 153).
 - 2026-11-26, version 2: Telegram chat appears in under 2 s instead of 7 s, hero title no longer cut off on phones, essay reflection sentence rewritten ("It is also a common problem that many pupils have to overcome."), edit button hidden for viewers in every case.
+- 2026-11-26, version 3: quest Task 3 instruction fixed (it mixed "open the brackets" grammar with fact/opinion); first sentence is now "Thousands of tourists visit Astana every year."
