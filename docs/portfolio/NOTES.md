@@ -65,7 +65,7 @@ Chart images on the site: `images/res1.jpg` … `images/res10.jpg`, cropped from
 - Keep her wording. Fix only clear mistakes: grammar, spelling, wrong facts, wrong numbers. Say in the reply what was changed.
 - Word counts shown on the page ("≈ N words") must match a real count of the text.
 - Never invent data: survey results, textbook details, the teacher's answers, test scores. If it is missing, ask her for it.
-- Reflections stay in first person and in her voice.
+- Reflections stay in first person and in her voice. Task 10 has no reflection (she asked to remove it); do not add one back.
 - Do not remove a task or a section without asking.
 - Check the page at phone width (about 390 px) as well as on a computer: no text cut off at the edge, no sideways scrolling.
 - Leave the shared links (British Council, education.com, Wordwall, test sites, Google Form) as they are unless one is broken.
@@ -82,3 +82,4 @@ Chart images on the site: `images/res1.jpg` … `images/res10.jpg`, cropped from
 - 2026-11-26, version 3: quest Task 3 instruction fixed (it mixed "open the brackets" grammar with fact/opinion); first sentence is now "Thousands of tourists visit Astana every year."
 - 2026-11-26, version 4: on-page edit mode removed at her request: no "Edit page", "Upload photo", "Change photo" buttons, no empty "📷" photo boxes. Empty photo spots are now invisible.
 - 2026-11-26, version 5: task 9 now shows the full questionnaire (10 questions with options, read from the public form). Task 10 rewritten: result chart + analysis for each of the 10 questions, then an overview of 164 words. Reflections r9 and r10 rewritten to match. The old task 10 text about leadership tests was removed.
+- 2026-11-26, version 6: "My reflection" removed from task 10 at her request.
