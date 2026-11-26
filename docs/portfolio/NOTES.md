@@ -29,16 +29,16 @@ Text keys (`data-ed`): `about`, `intro`, `r1`–`r10` (reflections), `g1t`, `g2t
 
 ## The portfolio tasks
 
-Fourth-year student of English Language Education, Akhmet Baitursynuly Regional University. Ten tasks, one page each, each ends with "My reflection":
+Fourth-year student of English Language Education, Akhmet Baitursynuly Regional University. Ten tasks, one page each. No task has a reflection (she asked to remove all of them).
 
 1. Interview with a school English teacher on "Use of group work in education": 5 open questions, shown as a Telegram chat.
-2. Rules for the group work: 10 short positive rules for an 11th grade class, plus a photo.
-3. Quest on critical thinking: topic Travelling, grade 7, 5 online tasks from easiest to hardest.
+2. Rules for the group work: 10 rules for an 11th grade class in three stages (before we start, while we work, at the end), each with a note on how it looks in a lesson; group roles (leader, timekeeper, speaker, secretary, rotating, as in the interview); useful phrases; a drawn illustration.
+3. Quest on critical thinking: topic Travelling, grade 7, 5 tasks from easiest to hardest, drawn travel-map cover on the main card. The text of each task must match its link exactly: Task 1 own clues with Wikipedia links (Eiffel Tower, Colosseum, Baiterek, Mount Fuji); Task 2 LearnEnglish Teens video, speaker Sophia, plus transcript PDF; Task 3 the 10 statements of the Education.com worksheet "Travel the World: Fact or Opinion?" copied exactly; Task 4 own logic puzzle (same four cities); Task 5 the 15 Wordwall speaking cards "session 1" copied exactly.
 4. Rubrics for assessment of 2 types of work: analytic rubric (essay, grade 11) and holistic rubric (monologue, grade 9).
-5. Reading tasks for gifted and talented: a textbook task from okulyk.kz (screenshot, grade, book, page, task number) and her own harder version (analyse, evaluate, create).
+5. Reading tasks for gifted and talented, grade 6: English Plus (Grade 6) Student's Book, Kazakhstan Edition (Wetz, Pye, OUP 2015), https://okulyk.kz/anglijskij-jazyk/963/, Unit 3, page 34, Reading "The red list", text "Danger! Humans!". Proof photo `images/g1.jpg` is page 34 rendered from the okulyk.kz PDF (books.okulyk.com/963/963.pdf). Slides: source, original exercises 1-4, four gifted tasks (analyse numbers, fact/opinion, evaluate, research and create a fact file), book vs mine.
 6. Essay on underachievers: "The reasons of underachievement of pupils".
 7. Memo on Lesson Study: what it is, origin (Japan, jugyō kenkyū; Stigler and Hiebert, The Teaching Gap, 1999), the cycle, why it helps, proposal.
-8. Two tests for defining leaders: two ready-made online tests (woorise.com and knowledgejump.com), interactive on the page, with screenshot proof.
+8. Two tests for defining leaders: Test 1 for students, 4-H Leadership Survey (7th-12th Grade), Montana State University Extension 2019, 10 of 22 statements, scale 1-7. Test 2 for teachers, Teacher Leadership: Teacher Self-Assessment Tool, Center on Great Teachers and Leaders at AIR with REL Midwest, March 2017, 10 foundational indicators, scale Not Evident / Beginning / Developing / Advancing. Statements copied exactly; results show averages or counts only, no invented interpretation.
 9. Making up a questionnaire on "Inclusive education": the questionnaire itself. Google Form https://forms.gle/DFtZfZKJfektWXP79 (edit link docs.google.com/forms/d/1GXj7jSCTwX5sJh8QABSHnn3ndUCnAqx8HXz1hV4Z02g), 10 multiple-choice questions, 5 options each. The page lists all questions and options.
 10. Short review, the result of the questionnaire. Her instruction for the order: first the result screenshot of every question, then the analysis of each one, and only after all ten the overview (150–180 words).
 
@@ -65,10 +65,10 @@ Chart images on the site: `images/res1.jpg` … `images/res10.jpg`, cropped from
 - Keep her wording. Fix only clear mistakes: grammar, spelling, wrong facts, wrong numbers. Say in the reply what was changed.
 - Word counts shown on the page ("≈ N words") must match a real count of the text.
 - Never invent data: survey results, textbook details, the teacher's answers, test scores. If it is missing, ask her for it.
-- Reflections stay in first person and in her voice. Task 10 has no reflection (she asked to remove it); do not add one back.
+- No reflections anywhere on the site (she asked to remove all of them). Do not add any back.
 - Do not remove a task or a section without asking.
 - Check the page at phone width (about 390 px) as well as on a computer: no text cut off at the edge, no sideways scrolling.
-- Leave the shared links (British Council, education.com, Wordwall, test sites, Google Form) as they are unless one is broken.
+- Every link must lead to exactly the information written on the page. When the page quotes a source (worksheet, Wordwall cards, tests, textbook), copy its wording exactly and check it against the source.
 - The assessment criteria below are a checklist for reviewing the site. Never put them on the website (she asked to remove them).
 - Text on the page must not promise something the page does not have (photos, proof, reflections).
 
@@ -79,7 +79,7 @@ Defending the e-Portfolio, 40% (her oral defence, not the site): culture of pres
 
 ## Open problems (as of 2026-11-26)
 
-- Task 5 is incomplete (hurts "contents of tasks", 40%): "Grade: ___ · Book: ___ · Page: ___ · Task no.: ___", "Write the original textbook task here", no textbook screenshots. Needs the okulyk.kz textbook details from her.
+- (fixed in version 12) Task 5 was incomplete (hurts "contents of tasks", 40%): "Grade: ___ · Book: ___ · Page: ___ · Task no.: ___", "Write the original textbook task here", no textbook screenshots. Needs the okulyk.kz textbook details from her.
 - No photos on the site yet (hurts "aesthetic side"): her profile photo and the teacher photo show silhouettes; group work, memo and test screenshots are hidden. She can send photos in the chat; they arrive as files and can be published as `images/<key>.jpg`.
 
 ## Change log
@@ -93,3 +93,4 @@ Defending the e-Portfolio, 40% (her oral defence, not the site): culture of pres
 - 2026-11-26, versions 7-9: added page "Criteria of assessment of portfolio" (#criteria) with her criteria table (Gained column left empty for the examiner), linked from the menu, the contents and task 10. The artifact is now shared as "Anyone with the link".
 - 2026-11-26, version 10: criteria link removed from the Contents list on the home page at her request (still in the menu and after task 10). Do not add it back to Contents.
 - 2026-11-26, version 11: criteria page removed completely at her request (she sent the criteria to check the site against, not to publish). Fixes from that check: quest Task 1 "Picture puzzle" had no pictures, now "Guess the place" with four text clues (Eiffel Tower, Colosseum, Baiterek, Mount Fuji, matching the four cities of Task 4) and an answer; task 8 lead no longer promises proof screenshots; home intro says tasks 1-9 have reflections (task 10 has none).
+- 2026-11-26, version 12: all reflections removed; task 2 rebuilt (stages, notes, roles, phrases, illustration); task 3 got a drawn cover and verified links, Task 3 statements and Task 5 cards now copied exactly from Education.com and Wordwall, answers added for tasks 2 and 3; task 5 rebuilt on English Plus 6 page 34 with proof image; task 8 now has a students test (4-H) and a teachers test (AIR), statements copied exactly (the old page had paraphrased woorise statements). Photos IMG_3253 (profile + interviewer) and IMG_2948 (teacher) were mentioned but not attached.
