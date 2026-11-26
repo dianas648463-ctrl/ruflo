@@ -83,3 +83,4 @@ Chart images on the site: `images/res1.jpg` … `images/res10.jpg`, cropped from
 - 2026-11-26, version 4: on-page edit mode removed at her request: no "Edit page", "Upload photo", "Change photo" buttons, no empty "📷" photo boxes. Empty photo spots are now invisible.
 - 2026-11-26, version 5: task 9 now shows the full questionnaire (10 questions with options, read from the public form). Task 10 rewritten: result chart + analysis for each of the 10 questions, then an overview of 164 words. Reflections r9 and r10 rewritten to match. The old task 10 text about leadership tests was removed.
 - 2026-11-26, version 6: "My reflection" removed from task 10 at her request.
+- 2026-11-26, versions 7-8: added page "Criteria of assessment of portfolio" (#criteria) with her criteria table (Gained column left empty for the examiner), linked from the menu, the contents and task 10. The artifact is now shared as "Anyone with the link".
