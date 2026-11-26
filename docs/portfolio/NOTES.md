@@ -6,30 +6,26 @@ Read this file first in any new conversation about the portfolio website.
 
 - Live page: https://claude.ai/artifact/2phTBR9ywKqKADsGwHg7Dr (claude.ai Artifact, private until the owner shares it with the Share button).
 - Source copy: `docs/portfolio/index.html` and `docs/portfolio/content.json` on branch `claude/portfolio-website-styling-vkiqqs`.
-- The live page is the truth. The owner can change texts and photos on the page itself, so the repo copy can be older.
+- The owner asked to remove the on-page edit mode (version 4). Do not add "Edit", "Upload photo" or "Add a photo" buttons or placeholders back.
 
 Files inside the artifact:
 
 | File | What it holds |
 |---|---|
 | `index.html` | the page: design, all task texts, script |
-| `content.json` | texts the owner saved in edit mode, `{"key": "text"}`; they replace the text of the element with the same `data-ed` key |
-| `images/<key>.jpg` | photos the owner uploaded on the page |
+| `content.json` | optional text overrides, `{"key": "text"}`; each replaces the text of the element with the same `data-ed` key. Currently `{}` |
+| `images/<key>.jpg` | photos; none published yet |
 
-Photo keys: `profile`, `teacher`, `group-work`, `quest-task1`, `q4`, `g1`, `g2`, `m1`, `l1`, `l2`, `c1`, `c2`, `c3`.
+Photo keys: `profile`, `teacher`, `group-work`, `quest-task1`, `q4`, `g1`, `g2`, `m1`, `l1`, `l2`, `c1`, `c2`, `c3`. A photo box stays invisible until `images/<key>.jpg` exists. `profile` and `teacher` show a plain silhouette until then.
 
-Editable text keys (`data-ed`): `about`, `intro`, `r1`–`r10` (reflections), `g1t`, `g2t`, `g3a`, `g3b`, `g3c`, `can1`, `can2`, `can3`.
+Text keys (`data-ed`): `about`, `intro`, `r1`–`r10` (reflections), `g1t`, `g2t`, `g3a`, `g3b`, `g3c`, `can1`, `can2`, `can3`.
 
 ## How to update the website
 
-1. Read the live artifact first: `Artifact` with `action: "read"` and the URL above. Also read `content.json` from it (`path: "content.json"`).
-2. Change `index.html` only. Publish with `url` set to the artifact URL, so the link stays the same.
-3. Do not publish `content.json` or `images/*` unless the owner asks. They hold what she saved on the page, and overwriting them deletes her work.
-4. If the text to fix is stored in `content.json`, `index.html` edits will not show. Either fix it in `content.json` (after reading it) or ask her to fix it in edit mode.
-5. Keep the capabilities (`artifact`, `user`): they make the edit mode and photo upload work. Leave `capabilities` out of the publish call so they carry over.
-6. After publishing, copy the new `index.html` to `docs/portfolio/` and commit it to the branch.
-
-Edit mode, for the owner: the "Edit page" button at the bottom left (shown only to the owner and editors). It outlines editable texts, shows upload buttons on photos, and saves text with "Save text". Photos are resized to 1800 px JPEG on upload.
+1. Read the live artifact first: `Artifact` with `action: "read"` and the URL above.
+2. Change `index.html`. Publish with `url` set to the artifact URL, so the link stays the same.
+3. To add a photo the owner sends as a file, publish it in `files` as `images/<key>.jpg`; the page shows it with no HTML change.
+4. After publishing, copy the new `index.html` to `docs/portfolio/` and commit it to the branch.
 
 ## The portfolio tasks
 
@@ -62,10 +58,11 @@ Fourth-year student of English Language Education, Akhmet Baitursynuly Regional 
 - Task 10 retells the leadership tests (task 8) instead of the questionnaire results. Needs her survey answers (how many people answered, what most of them chose for each question) to rewrite.
 - Placeholders not filled: "Grade: ___ · Book: ___ · Page: ___ · Task no.: ___", "Write the original textbook task here", the three chart analyses.
 - The Google Form could not be read from the cloud session (forms.gle is blocked by its network). Its questions and results must come from her.
-- No photos uploaded yet: profile, teacher, group work, quest task 1 and all screenshot slots.
+- No photos on the site yet: profile, teacher, group work, quest task 1 and all screenshot spots (hidden until a photo is published).
 
 ## Change log
 
 - 2026-11-26, version 1: page published from her HTML. Added photo upload and text editing for the owner, keyboard access to the test buttons, menu closes with Esc or a click outside, quest dark slide made visible, "a 11th" → "an 11th", word counts corrected (essay 174, review 153).
 - 2026-11-26, version 2: Telegram chat appears in under 2 s instead of 7 s, hero title no longer cut off on phones, essay reflection sentence rewritten ("It is also a common problem that many pupils have to overcome."), edit button hidden for viewers in every case.
 - 2026-11-26, version 3: quest Task 3 instruction fixed (it mixed "open the brackets" grammar with fact/opinion); first sentence is now "Thousands of tourists visit Astana every year."
+- 2026-11-26, version 4: on-page edit mode removed at her request: no "Edit page", "Upload photo", "Change photo" buttons, no empty "📷" photo boxes. Empty photo spots are now invisible.
