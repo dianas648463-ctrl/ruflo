@@ -69,11 +69,18 @@ Chart images on the site: `images/res1.jpg` … `images/res10.jpg`, cropped from
 - Do not remove a task or a section without asking.
 - Check the page at phone width (about 390 px) as well as on a computer: no text cut off at the edge, no sideways scrolling.
 - Leave the shared links (British Council, education.com, Wordwall, test sites, Google Form) as they are unless one is broken.
+- The assessment criteria below are a checklist for reviewing the site. Never put them on the website (she asked to remove them).
+- Text on the page must not promise something the page does not have (photos, proof, reflections).
+
+## Assessment criteria (use them to check the site, do not publish them)
+
+Creating the e-Portfolio, 60%: logic of presented information 5, design (form) 5, aesthetic side 5, creativity 5, contents of the module tasks 40.
+Defending the e-Portfolio, 40% (her oral defence, not the site): culture of presentation 10, coherence and cohesion of speech 20, argumentative answers to questions 10.
 
 ## Open problems (as of 2026-11-26)
 
-- Placeholders not filled in task 5: "Grade: ___ · Book: ___ · Page: ___ · Task no.: ___", "Write the original textbook task here". Needs the okulyk.kz textbook details from her.
-- No photos on the site yet: profile, teacher, group work, quest task 1 and all screenshot spots (hidden until a photo is published).
+- Task 5 is incomplete (hurts "contents of tasks", 40%): "Grade: ___ · Book: ___ · Page: ___ · Task no.: ___", "Write the original textbook task here", no textbook screenshots. Needs the okulyk.kz textbook details from her.
+- No photos on the site yet (hurts "aesthetic side"): her profile photo and the teacher photo show silhouettes; group work, memo and test screenshots are hidden. She can send photos in the chat; they arrive as files and can be published as `images/<key>.jpg`.
 
 ## Change log
 
@@ -85,3 +92,4 @@ Chart images on the site: `images/res1.jpg` … `images/res10.jpg`, cropped from
 - 2026-11-26, version 6: "My reflection" removed from task 10 at her request.
 - 2026-11-26, versions 7-9: added page "Criteria of assessment of portfolio" (#criteria) with her criteria table (Gained column left empty for the examiner), linked from the menu, the contents and task 10. The artifact is now shared as "Anyone with the link".
 - 2026-11-26, version 10: criteria link removed from the Contents list on the home page at her request (still in the menu and after task 10). Do not add it back to Contents.
+- 2026-11-26, version 11: criteria page removed completely at her request (she sent the criteria to check the site against, not to publish). Fixes from that check: quest Task 1 "Picture puzzle" had no pictures, now "Guess the place" with four text clues (Eiffel Tower, Colosseum, Baiterek, Mount Fuji, matching the four cities of Task 4) and an answer; task 8 lead no longer promises proof screenshots; home intro says tasks 1-9 have reflections (task 10 has none).
