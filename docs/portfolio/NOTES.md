@@ -39,8 +39,25 @@ Fourth-year student of English Language Education, Akhmet Baitursynuly Regional 
 6. Essay on underachievers: "The reasons of underachievement of pupils".
 7. Memo on Lesson Study: what it is, origin (Japan, jugyō kenkyū; Stigler and Hiebert, The Teaching Gap, 1999), the cycle, why it helps, proposal.
 8. Two tests for defining leaders: two ready-made online tests (woorise.com and knowledgejump.com), interactive on the page, with screenshot proof.
-9. Questionnaire on "Inclusive education": Google Form https://forms.gle/DFtZfZKJfektWXP79, three chart screenshots, an analysis under each.
-10. Short review, the result of the questionnaire: 150–180 words.
+9. Making up a questionnaire on "Inclusive education": the questionnaire itself. Google Form https://forms.gle/DFtZfZKJfektWXP79 (edit link docs.google.com/forms/d/1GXj7jSCTwX5sJh8QABSHnn3ndUCnAqx8HXz1hV4Z02g), 10 multiple-choice questions, 5 options each. The page lists all questions and options.
+10. Short review, the result of the questionnaire. Her instruction for the order: first the result screenshot of every question, then the analysis of each one, and only after all ten the overview (150–180 words).
+
+Survey results (14 responses, counted from her screenshots of the Responses tab, 2026-11-26):
+
+| Q | Answers (count of 14) |
+|---|---|
+| 1 | Absolutely essential 10, Moderately important 3, Highly important but not indispensable 1 |
+| 2 | Genuinely promotes inclusion 8, Appearance without support 3, Both, depending on implementation 3 |
+| 3 | Entirely accountable 8, Primarily, with government 3, Equally with families and society 3 |
+| 4 | Teacher training 7, Social stigma 4, Financial resources 2, Policies 1, Infrastructure 0 |
+| 5 | Strongly agree 6, Agree 6, Neutral 2 |
+| 6 | Very great 5, Considerable 3, Moderate 6 |
+| 7 | Government 6, All stakeholders equally 5, School administrations 2, Teachers 1, Parents 0 |
+| 8 | Strongly agree 9, Agree 2, Neutral 3 |
+| 9 | Teacher professional development 8, Accessible infrastructure 5, Collaboration 1 |
+| 10 | Social cohesion 7, Equal opportunities 6, Difficult to predict 1 |
+
+Chart images on the site: `images/res1.jpg` … `images/res10.jpg`, cropped from her phone screenshots.
 
 ## Rules for correcting the website
 
@@ -55,9 +72,7 @@ Fourth-year student of English Language Education, Akhmet Baitursynuly Regional 
 
 ## Open problems (as of 2026-11-26)
 
-- Task 10 retells the leadership tests (task 8) instead of the questionnaire results. Needs her survey answers (how many people answered, what most of them chose for each question) to rewrite.
-- Placeholders not filled: "Grade: ___ · Book: ___ · Page: ___ · Task no.: ___", "Write the original textbook task here", the three chart analyses.
-- The Google Form could not be read from the cloud session (forms.gle is blocked by its network). Its questions and results must come from her.
+- Placeholders not filled in task 5: "Grade: ___ · Book: ___ · Page: ___ · Task no.: ___", "Write the original textbook task here". Needs the okulyk.kz textbook details from her.
 - No photos on the site yet: profile, teacher, group work, quest task 1 and all screenshot spots (hidden until a photo is published).
 
 ## Change log
@@ -66,3 +81,4 @@ Fourth-year student of English Language Education, Akhmet Baitursynuly Regional 
 - 2026-11-26, version 2: Telegram chat appears in under 2 s instead of 7 s, hero title no longer cut off on phones, essay reflection sentence rewritten ("It is also a common problem that many pupils have to overcome."), edit button hidden for viewers in every case.
 - 2026-11-26, version 3: quest Task 3 instruction fixed (it mixed "open the brackets" grammar with fact/opinion); first sentence is now "Thousands of tourists visit Astana every year."
 - 2026-11-26, version 4: on-page edit mode removed at her request: no "Edit page", "Upload photo", "Change photo" buttons, no empty "📷" photo boxes. Empty photo spots are now invisible.
+- 2026-11-26, version 5: task 9 now shows the full questionnaire (10 questions with options, read from the public form). Task 10 rewritten: result chart + analysis for each of the 10 questions, then an overview of 164 words. Reflections r9 and r10 rewritten to match. The old task 10 text about leadership tests was removed.
