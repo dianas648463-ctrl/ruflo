@@ -80,7 +80,7 @@ Defending the e-Portfolio, 40% (her oral defence, not the site): culture of pres
 ## Open problems (as of 2026-11-26)
 
 - (fixed in version 12) Task 5 was incomplete (hurts "contents of tasks", 40%): "Grade: ___ · Book: ___ · Page: ___ · Task no.: ___", "Write the original textbook task here", no textbook screenshots. Needs the okulyk.kz textbook details from her.
-- No photos on the site yet (hurts "aesthetic side"): her profile photo and the teacher photo show silhouettes; group work, memo and test screenshots are hidden. She can send photos in the chat; they arrive as files and can be published as `images/<key>.jpg`.
+- Photos on the site (version 13): `profile.jpg` (her, hero + interviewer), `teacher.jpg` (the interviewed teacher), `teacher-face.jpg` (Telegram avatar). Still hidden: group work photo (replaced by a drawing), memo photo, test screenshots.
 
 ## Change log
 
@@ -94,3 +94,4 @@ Defending the e-Portfolio, 40% (her oral defence, not the site): culture of pres
 - 2026-11-26, version 10: criteria link removed from the Contents list on the home page at her request (still in the menu and after task 10). Do not add it back to Contents.
 - 2026-11-26, version 11: criteria page removed completely at her request (she sent the criteria to check the site against, not to publish). Fixes from that check: quest Task 1 "Picture puzzle" had no pictures, now "Guess the place" with four text clues (Eiffel Tower, Colosseum, Baiterek, Mount Fuji, matching the four cities of Task 4) and an answer; task 8 lead no longer promises proof screenshots; home intro says tasks 1-9 have reflections (task 10 has none).
 - 2026-11-26, version 12: all reflections removed; task 2 rebuilt (stages, notes, roles, phrases, illustration); task 3 got a drawn cover and verified links, Task 3 statements and Task 5 cards now copied exactly from Education.com and Wordwall, answers added for tasks 2 and 3; task 5 rebuilt on English Plus 6 page 34 with proof image; task 8 now has a students test (4-H) and a teachers test (AIR), statements copied exactly (the old page had paraphrased woorise statements). Photos IMG_3253 (profile + interviewer) and IMG_2948 (teacher) were mentioned but not attached.
+- 2026-11-27, version 13: her selfie on the home page and as the interviewer, the teacher photo in the interview and as the Telegram avatar.
